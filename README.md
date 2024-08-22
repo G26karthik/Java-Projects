@@ -1,8 +1,7 @@
 Hi,
 This is my code repo for the projects i have done while doing intership at hex software .
-My First Project is Student Grade Calculater
 
-
+>>>>My First Project is Student Grade Calculater
 
 
 --> In this project i have 
@@ -14,3 +13,18 @@ My First Project is Student Grade Calculater
 
 
 *Included functionality to input multiple students and calculate the class average.
+
+
+
+>>>>My Second Project is Library Managment System.
+
+
+--> In this project i have 
+
+*Implemented classes for Book, Member, and Library.
+
+
+*Allowed the librarian to add new books, issue books to members and return books.
+
+
+*Included functionality to Track which books are currently issued and to whom.
