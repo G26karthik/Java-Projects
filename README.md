@@ -1,5 +1,5 @@
 Hi,
-This is my code repo for the projects i have done while doing intership at hex software .
+This is my code repo for the projects i have done while learning java in 3rd Semester
 
 >>>>My First Project is Student Grade Calculater
 
